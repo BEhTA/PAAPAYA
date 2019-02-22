@@ -16,7 +16,7 @@ Interesting Findings
 ### Contact Us
 BEhTA.lab.mu@gmail.com
 
--[Facebook])(https://www.facebook.com/Behta-Lab-335215267116719/?modal=admin_todo_tour)
+-[Facebook](https://www.facebook.com/Behta-Lab-335215267116719/?modal=admin_todo_tour)
 
 -[Twitter](https://twitter.com/BEhTA_Lab)
 
