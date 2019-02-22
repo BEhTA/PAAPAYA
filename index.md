@@ -18,7 +18,7 @@ BEhTA.lab.mu@gmail.com
 
 -[Facebook])(https://www.facebook.com/Behta-Lab-335215267116719/?modal=admin_todo_tour)
 
--[Twitter](https://twitter.com/BEhTA_Lab
+-[Twitter](https://twitter.com/BEhTA_Lab)
 
 -[Linkedin](https://www.linkedin.com/in/behta-lab-957408180/)
 
