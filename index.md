@@ -1,13 +1,13 @@
 ```markdown
-## Background
+Background
 -bullet list
 
 
-## Current Findings
+Current Findings
 -bullet list
 
 
-## Interesting Findings
+Interesting Findings
 -bullet list
 ```
 
